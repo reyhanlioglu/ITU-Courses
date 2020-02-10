@@ -1,0 +1,2 @@
+g++ hw1.cpp -o hw1
+./hw1 m 1000000 unsorted.txt
